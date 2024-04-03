@@ -116,55 +116,67 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Sr UI/UX Designer",
+    company_name: "CenturyLink",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Conducted user testing and analysis using wire-framing and prototyping tools like Invision.",
+      "Utilized Google Analytics to develop SEO strategies for the official website.",
       "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
+      "Improved user experience of driver job and taxi booking apps for iOS and Android, following design guidelines.",
+      "Planned and delivered UI/UX design solutions for taxi dispatching platforms, mobile apps, and websites.",
+"Created wireframes, mock-ups, and prototypes, and assisted in information architecture creation.",
+
+    
+],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "UI/UX Designer",
+    company_name: "State of NY",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Aug 2021 - Feb 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed user interfaces and experiences using Figma, Photoshop and Sketch for both transactions and websites.",
+      "Managed corporate branding and created interactive content according to branding guidelines.",
+      "Collaborated with project coordinators to develop design concepts and maintain technical standards.",
+      "Worked with top-level executives to create creative concepts for marketing campaigns and presentations.",
+      "Converted complex data into easy-to-understand graphics, Designed web pages, marketing assets, and print materials.",
+      "Brought branding ideas to life across various channels and projects.",
+       
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Jr. UI Developer and Designer",
+    company_name: "Infinity Solutions",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Nov 2017 - Mar 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Took part in all stages of software development, from figuring out what's needed to maintaining the finished product.",
+      "Made web designs using tools like Photoshop, Illustrator, and Sketch, Turned these designs into actual web pages using HTML, CSS, and JavaScript.",
+      "Had good knowledge of React JS and used it to make interactive web interfaces,Created reusable design elements for consistency and easy maintenance.",
+      "Managed app state using Redux and Context API, Reviewed code and followed Agile practices to ensure high-quality work and timely delivery.",
+
+  
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Frontend Developer",
+    company_name: "Quadrant Tech",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2014 - Oct 2017",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Involved in software development lifecycle including designing, coding, testing and deployment.",
+      "Adopted Agile for Development Methodology to improve software development process and elevate product while meeting defined goals and key deadlines.",
+      "Used Material UI, bootstrap and CSS3 Media Queries to develop single responsive application with good user experience in all platforms like desktop's tablets and mobile phones. ",
+      "Developed custom bootstrap with brand appropriate styles, colours, animations, and font icons.",
+      "Extensively used Social Media Platform like Facebook, Instagram, linked-in, Twitter to develop front end of the application. Used ReactJS JavaScript framework to bind data. ",
+
+      
     ],
   },
 ];
