@@ -212,7 +212,7 @@ const projects = [
   {
     name: "Harvest Hub",
     description:
-      "Web-based platform that allows users to buy organic vegetable  from Farmers .",
+      "Introducing Harvest Hub, your one-stop solution empowering farmers to thrive. Our innovative online marketplace directly connects local farmers with consumers while providing access to agricultural experts for crop disease advisory and detailed cultivation processes. ",
     tags: [
       {
         name: "Figma",
