@@ -212,8 +212,8 @@ const projects = [
   {
     name: "Harvest Hub",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
+      " Introducing Harvest Hub, your one-stop solution empowering farmers to thrive. Our innovative online marketplace directly connects local farmers with consumers while providing access to agricultural experts for crop disease advisory and detailed cultivation processes.",
+          tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
@@ -233,7 +233,7 @@ const projects = [
   {
     name: "Y To Ride",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Introducing Y to Ride, your ultimate transportation solution. book your ride effortlessly and reach your destination hassle-free. Whether it's a quick trip across town or a ride to the airport, Y to Ride ensures reliable and convenient transportation whenever you need it..",
     tags: [
       {
         name: "Figma",
