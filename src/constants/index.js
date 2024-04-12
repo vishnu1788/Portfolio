@@ -212,7 +212,7 @@ const projects = [
   {
     name: "Harvest Hub",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to buy organic vegetable  from Farmers .",
     tags: [
       {
         name: "Figma",
@@ -228,7 +228,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.behance.net/gallery/195925831/Harvest-Hub",
   },
   {
     name: "Job IT",

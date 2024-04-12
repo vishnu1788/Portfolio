@@ -37,7 +37,7 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_xrny3ol',
+        // 'service_xrny3ol',
       'template_fbazaj9',
         
         {
@@ -47,7 +47,7 @@ const Contact = () => {
           to_email: "vishnu.my7891@gmail.com",
           message: form.message,
         },
-        'Y1_0Lq-Vh2YtdvBtu'
+        // 'Y1_0Lq-Vh2YtdvBtu'
        
       )
       .then(
