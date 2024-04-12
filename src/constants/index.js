@@ -219,11 +219,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "photoshop",
+        name: "Photoshop",
         color: "green-text-gradient",
       },
       {
-        name: "sketch",
+        name: "Sketch",
         color: "pink-text-gradient",
       },
     ],
@@ -231,46 +231,46 @@ const projects = [
     source_code_link: "https://www.behance.net/gallery/195925831/Harvest-Hub",
   },
   {
-    name: "Job IT",
+    name: "Y To Ride",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Introducing Y to Ride, your ultimate transportation solution. book your ride effortlessly and reach your destination hassle-free. Whether it's a quick trip across town or a ride to the airport, Y to Ride ensures reliable and convenient transportation whenever you need it..",
     tags: [
       {
-        name: "react",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "AdobeXd",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Illustrator",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.behance.net/gallery/195866209/YToRide",
   },
   {
-    name: "Trip Guide",
+    name: "Trek Trak",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "UX design",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "AdobeXD",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.behance.net/gallery/195893843/Trek-Trak",
   },
 ];
 
