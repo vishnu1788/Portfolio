@@ -18,6 +18,9 @@ import {
   meta,
   starbucks,
   tesla,
+  Textractive,
+  HouSource,
+  Tripo,
   shopify,
   carrent,
   jobit,
@@ -271,6 +274,69 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://www.behance.net/gallery/195893843/Trek-Trak",
+  },
+  {
+    name: "HouSource",
+    description:
+      "Introducing Harvest Hub, your one-stop solution empowering farmers to thrive. Our innovative online marketplace directly connects local farmers with consumers while providing access to agricultural experts for crop disease advisory and detailed cultivation processes. ",
+    tags: [
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Photoshop",
+        color: "green-text-gradient",
+      },
+      {
+        name: "AdobeXD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: HouSource,
+    source_code_link: "https://www.behance.net/gallery/196389819/Housource",
+  },
+  {
+    name: "Tripo",
+    description:
+      "Introducing Y to Ride, your ultimate transportation solution. book your ride effortlessly and reach your destination hassle-free. Whether it's a quick trip across town or a ride to the airport, Y to Ride ensures reliable and convenient transportation whenever you need it..",
+    tags: [
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "AdobeXd",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Illustrator",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Tripo,
+    source_code_link: "https://www.behance.net/gallery/196389253/Tripo-Travel",
+  },
+  {
+    name: "Textractive Self Serve",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "UX design",
+        color: "green-text-gradient",
+      },
+      {
+        name: "AdobeXD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Textractive,
+    source_code_link: "https://www.behance.net/gallery/196388591/Textractive-Self-Serve",
   },
 ];
 
