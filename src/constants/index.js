@@ -278,7 +278,7 @@ const projects = [
   {
     name: "HouSource",
     description:
-      "Introducing Harvest Hub, your one-stop solution empowering farmers to thrive. Our innovative online marketplace directly connects local farmers with consumers while providing access to agricultural experts for crop disease advisory and detailed cultivation processes. ",
+      "HouSource is a compelling international case study focusing on student housing solutions. It delves into the intricate dynamics of accommodating diverse student populations from around the globe, addressing their unique needs and preferences. ",
     tags: [
       {
         name: "Figma",
@@ -299,7 +299,7 @@ const projects = [
   {
     name: "Tripo",
     description:
-      "Introducing Y to Ride, your ultimate transportation solution. book your ride effortlessly and reach your destination hassle-free. Whether it's a quick trip across town or a ride to the airport, Y to Ride ensures reliable and convenient transportation whenever you need it..",
+      "Tripo is a captivating case study centered around a travel app designed to connect individuals with compatible travel companions. It explores the journey of creating a platform that facilitates meaningful connections among travelers seeking companionship for their adventures.",
     tags: [
       {
         name: "Figma",
@@ -320,7 +320,7 @@ const projects = [
   {
     name: "Textractive Self Serve",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The Textractive Self-Serve UX case study delves into the design and functionality of a groundbreaking self-service platform. This study highlights how Textractive streamlines the extraction process for users, enabling them to effortlessly obtain vital information. Through intuitive user experience (UX) design.",
     tags: [
       {
         name: "Figma",
