@@ -49,7 +49,7 @@ const About = () => {
 <motion.p variants = {fadeIn("","",0.1,1)}
 className="mt-4 text-secondary text-[17px] 
 max-w-4xl leading-[30px]">
-I'm a dynamic UX Designer and UI Developer passionate about 
+I'm a dynamic UX Designer  passionate about 
 creating seamless digital experiences that balance both functionality 
 and aesthetics. I specialize in crafting intuitive interfaces that 
 prioritize user engagement and satisfaction, drawing from a diverse
