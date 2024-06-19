@@ -152,7 +152,7 @@ const experiences = [
     ],
   },
   {
-    title: "Jr. UI Developer and Designer",
+    title: "Jr. UX Designer",
     company_name: "Infinity Solutions",
     icon: shopify,
     iconBg: "#383E56",
