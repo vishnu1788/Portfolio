@@ -45,11 +45,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend developer",
+    title: "UI/UX Designer",
     icon: web,
   },
   {
-    title: "UI/UX Designer",
+    title: "Frontend developer",
     icon: mobile,
   },
   {
@@ -119,7 +119,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Sr Frontend developer",
+    title: "Sr UIUX Designer",
     company_name: "CenturyLink",
     icon: starbucks,
     iconBg: "#383E56",
@@ -136,7 +136,7 @@ const experiences = [
 ],
   },
   {
-    title: "Frontend developer",
+    title: "UI/UX Designer",
     company_name: "State of NY",
     icon: tesla,
     iconBg: "#E6DEDD",
